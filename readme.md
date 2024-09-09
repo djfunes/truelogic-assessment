@@ -12,7 +12,7 @@ Java17, Maven 3.0.4
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/djfunes/truelogic-assessment.git
 ```
 
 Go to the project directory
